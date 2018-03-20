@@ -572,7 +572,7 @@ public class JTableDemo extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new JTableDemo().setVisible(true);
+                new LoginForm().setVisible(true);
             }
         });
     }
